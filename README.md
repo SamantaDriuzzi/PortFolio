@@ -7,6 +7,7 @@ My portfolio to complete the Responsive Web Design certification at FreeCodeCamp
 
 The proposal was to follow [this](https://personal-portfolio.freecodecamp.rocks/ "this") example portfolio to match functionality with my own style.
 
+Used tecnologies: HTML - CSS3
 ---
 
 <p align="left">
