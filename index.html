@@ -4,13 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./styles.css" />
-
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+    />
     <title>MyPortfolio</title>
   </head>
   <body>
     <header id="header" class="header">
       <nav id="navbar">
-        <ul>
+        <ul class="navList">
           <li><a class="nav-link" href="#welcome-section">About</a></li>
           <li><a class="nav-link" href="#projects">Work</a></li>
           <li><a class="nav-link" href="#contact">Contact</a></li>
@@ -21,35 +24,86 @@
       <h1>Hi! I am Samantha</h1>
       <p><i>a web developer</i></p>
     </section>
-    <section id="projects" class="projests">
-      <div class="project-title">These are some of my projects</div>
-      <div class="project-list">
-        <div>
+    <section id="projects" class="projests-section">
+      <div class="project-tile">These are some of my projects</div>
+      <ul class="block-project">
+        <li class="project-list">
           <a
+            class="link-project"
             href="https://github.com/SamantaDriuzzi/Bear-Transform-CSS"
             target="_blank"
-          >
-            <img
+            ><img
               src="https://github.com/SamantaDriuzzi/PortFolio/blob/master/bear.PNG?raw=true"
               alt="preview animation bear"
             />
             <p class="project-name">Animation CSS</p>
           </a>
-        </div>
-        <div>
-          <img
-            src="https://github.com/SamantaDriuzzi/PortFolio/blob/master/tribute.PNG?raw=true"
-          />
-        </div>
-        <div>
-          <img
-            src="https://github.com/SamantaDriuzzi/PortFolio/blob/master/Captura.PNG?raw=true"
-          />
-        </div>
+        </li>
+        <li class="project-list">
+          <a
+            class="link-project"
+            href="https://github.com/SamantaDriuzzi/TributePag"
+            target="_blank"
+          >
+            <img
+              src="https://github.com/SamantaDriuzzi/PortFolio/blob/master/tribute.PNG?raw=true"
+              alt="preview page tribute"
+            />
+            <p class="project-name">Page Tribute</p>
+          </a>
+        </li>
+        <li class="project-list">
+          <a
+            class="link-project"
+            href="https://github.com/SamantaDriuzzi/Product-Leanding-Page"
+            target="_blank"
+            ><img
+              src="https://github.com/SamantaDriuzzi/PortFolio/blob/master/Captura.PNG?raw=true"
+              alt="preview page product"
+            />
+            <p class="project-name">Page Product</p>
+          </a>
+        </li>
+      </ul>
+      <div class="botom">
+        <a
+          href="https://github.com/SamantaDriuzzi?tab=repositories"
+          target="_blank"
+          class="botom-link"
+          >Show all
+        </a>
       </div>
     </section>
-    <section id="contact">
-      <div class="profile-link"></div>
+    <section id="contact" class="contact-section">
+      <div class="contact-section-title">
+        <h2>We work together?</h2>
+        <p><i>cooperation is a virtue</i></p>
+      </div>
+      <div class="profile-link">
+        <a
+          id="profile-link"
+          href="https://github.com/SamantaDriuzzi"
+          target="_blank"
+          class="botom-contact"
+        >
+          <i class="fab fa-github"></i> GitHub
+        </a>
+        <a
+          id="profile-link"
+          href="mailto:driuzzi.samanta.mayra@gmail.com"
+          class="botom-contact"
+          target="_blank"
+        >
+          <i class="fas fa-at"></i> Send a mail</a
+        >
+        <a
+          id="profile-link"
+          href="tel:+54 9 2625 645352"
+          target="_blank"
+          class="botom-contact"
+          ><i class="fas fa-mobile-alt"></i> Call me</a
+        >
+      </div>
     </section>
   </body>
 </html>
