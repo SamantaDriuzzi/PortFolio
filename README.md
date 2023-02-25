@@ -22,9 +22,9 @@ THE LINK OF THE IMAGE Redirection to page
 
 &darr;
 
-[![project page viewed from a computer](https://github.com/SamantaDriuzzi/PortFolio/blob/master/readme.png?raw=true "sss")](http://127.0.0.1:5500/ "sss")
+[![project page viewed from a computer](https://github.com/SamantaDriuzzi/PortFolio/blob/master/img-README/readme.png?raw=true "sss")](http://127.0.0.1:5500/ "sss")
 
-![project section preview](https://github.com/SamantaDriuzzi/PortFolio/blob/master/work.PNG?raw=true)
+![project section preview](https://github.com/SamantaDriuzzi/PortFolio/blob/master/img-README/work.PNG?raw=true)
 
 ---
 
