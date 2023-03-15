@@ -13,8 +13,7 @@ Used tecnologies: HTML - CSS3
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-%20FINALIZED-red">
    </p>
- Platno add trees and some cabin to design.
-
+ 
 ---
 
 ## Preview:
