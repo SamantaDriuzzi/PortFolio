@@ -18,9 +18,7 @@ Used tecnologies: HTML - CSS3
 
 ## Preview:
 
-THE LINK OF THE IMAGE Redirection to page
 
-&darr;
 
 [![project page viewed from a computer](https://github.com/SamantaDriuzzi/PortFolio/blob/master/img-README/readme.png?raw=true "sss")](http://127.0.0.1:5500/ "sss")
 
