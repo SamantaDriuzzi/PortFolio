@@ -103,9 +103,10 @@ p {
 }
 
 img {
-  width: 250px;
+  width: 35%;
   margin-top: 15px;
-  height: 250px;
+  height: auto;
+  vo
 }
 
 img:hover {
